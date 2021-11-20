@@ -1,0 +1,201 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "username": "mahasiswa",
+      "password": "1234",
+      "role": "mahasiswa",
+      "absen": [
+        {
+          "id": 1,
+          "tanggal": "2021-11-06",
+          "picked": "Hadir",
+          "picked2": "Hadir",
+          "gambar": ""
+        },
+        {
+          "id": 2,
+          "tanggal": "2021-11-19",
+          "picked": "Hadir",
+          "picked2": "Hadir",
+          "gambar": "gambar"
+        },
+        {
+          "id": 3,
+          "tanggal": "2021-11-19",
+          "picked": "Hadir",
+          "picked2": "Hadir",
+          "gambar": "sss"
+        },
+        {
+          "id": 4,
+          "tanggal": "2021-11-19",
+          "picked": "Hadir",
+          "picked2": "Hadir",
+          "gambar": "testing"
+        },
+        {
+          "id": 5,
+          "tanggal": "2021-11-20",
+          "picked": "Hadir",
+          "gambar": "ssssdad"
+        },
+        {
+          "id": 6,
+          "tanggal": "2021-11-18",
+          "picked": "Hadir",
+          "gambar": "qq"
+        },
+        {
+          "id": 7,
+          "tanggal": "2021-11-27",
+          "picked": "Hadir",
+          "gambar": "ss"
+        },
+        {
+          "id": 8,
+          "tanggal": "2021-11-27",
+          "picked": "Hadir",
+          "gambar": "sss"
+        },
+        {
+          "id": 9,
+          "tanggal": "2021-12-11",
+          "picked": "Hadir",
+          "gambar": "aaaaa"
+        },
+        {
+          "id": 10,
+          "tanggal": "2021-12-06",
+          "picked": "Hadir",
+          "gambar": "qw"
+        },
+        {
+          "id": 11,
+          "tanggal": "2022-01-08",
+          "picked": "Hadir",
+          "gambar": "123"
+        },
+        {
+          "id": 12,
+          "tanggal": "2021-11-19",
+          "picked": "Hadir",
+          "gambar": "nbn"
+        },
+        {
+          "id": 13,
+          "tanggal": "2022-12-01",
+          "picked": "Hadir",
+          "gambar": "asdfghjklkjhgfghj"
+        },
+        {
+          "id": 14,
+          "tanggal": "2021-12-04",
+          "picked": "Hadir",
+          "gambar": "aaaa"
+        },
+        {
+          "id": 15,
+          "tanggal": "2021-11-25",
+          "picked": "Hadir",
+          "gambar": "ggg"
+        },
+        {
+          "id": 16,
+          "tanggal": "2021-11-13",
+          "picked": "Hadir",
+          "gambar": "qqqq"
+        },
+        {
+          "id": 17,
+          "tanggal": "2021-12-10",
+          "picked": "Hadir",
+          "gambar": "aaa"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "username": "dosen",
+      "password": "123",
+      "role": "dosen"
+    },
+    {
+      "username": "ilham",
+      "email": "ilham@gmail.com",
+      "nisn": "9897989789",
+      "password": "123",
+      "role": "mahasiswa",
+      "id": 4
+    }
+  ],
+  "infoMahasiswa": [
+    {
+      "nama": "Alysa Marya",
+      "tanggal": "2021-11-06",
+      "picked": "Hadir",
+      "persentase": "",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLN9iXUmU2gUkxAsUKIPm6qv8dQkT5-j4Xg&usqp=CAU",
+      "picked2": "✓",
+      "id": 1
+    },
+    {
+      "nama": "Nisa Safina",
+      "tanggal": "2021-11-13",
+      "picked": "Hadir",
+      "persentase": "",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimytLqspa_vDJ8olJRoWyFqrtpqICIIM2vg&usqp=CAU",
+      "picked2": "✓",
+      "id": 2
+    },
+    {
+      "nama": "Nisa Safina",
+      "tanggal": "2021-11-13",
+      "picked": "Hadir",
+      "persentase": "",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimytLqspa_vDJ8olJRoWyFqrtpqICIIM2vg&usqp=CAU",
+      "picked2": "",
+      "id": 3
+    },
+    {
+      "nama": "Nisa Safina",
+      "tanggal": "2021-11-13",
+      "picked": "Hadir",
+      "persentase": "",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimytLqspa_vDJ8olJRoWyFqrtpqICIIM2vg&usqp=CAU",
+      "picked2": "",
+      "id": 4
+    }
+  ],
+  "infoDosen": [
+    {
+      "id": 1,
+      "nama": "Nisa Safina",
+      "tanggal": "2021-11-13",
+      "picked": "Hadir",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTimytLqspa_vDJ8olJRoWyFqrtpqICIIM2vg&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "materi": "kkla",
+      "tanggal": "2021-12-07",
+      "picked": "picked",
+      "persentase": "",
+      "gambar": "aa"
+    },
+    {
+      "id": 3,
+      "materi": "adqwrewrtqewt43q4t",
+      "tanggal": "2021-11-27",
+      "picked": "picked",
+      "persentase": "",
+      "gambar": "43tc34"
+    }
+  ]
+}
